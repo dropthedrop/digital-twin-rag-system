@@ -1,0 +1,73 @@
+{
+  "professional_info": {
+    "name": "Your Full Name",
+    "title": "Your Professional Title",
+    "location": "Your Location",
+    "summary": "Brief professional summary...",
+    "elevator_pitch": "Your elevator pitch..."
+  },
+  "experiences": [
+    {
+      "company": "Company Name",
+      "position": "Your Position",
+      "duration": "2020 - Present",
+      "description": "Role description...",
+      "achievements": [
+        "Key achievement 1",
+        "Key achievement 2"
+      ],
+      "technologies": ["Tech1", "Tech2"],
+      "skills_developed": ["Skill1", "Skill2"],
+      "impact": "Impact description..."
+    }
+  ],
+  "skills": {
+    "technical_skills": {
+      "Programming Languages": [
+        {
+          "name": "Python",
+          "proficiency": "Advanced",
+          "experience_years": 5,
+          "examples": "Automation, APIs, ML"
+        }
+      ],
+      "Cloud & DevOps": [
+        {
+          "name": "AWS",
+          "proficiency": "Intermediate",
+          "experience_years": 3,
+          "examples": "EC2, S3, Lambda"
+        }
+      ]
+    },
+    "soft_skills": [
+      {
+        "name": "Team Leadership",
+        "examples": "Led cross-functional teams..."
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "Project Name",
+      "type": "Web Application",
+      "status": "Completed",
+      "description": "Project description...",
+      "technologies": ["React", "Node.js", "PostgreSQL"],
+      "role": "Full-stack Developer",
+      "outcomes": ["Outcome 1", "Outcome 2"],
+      "challenges": ["Challenge 1", "Challenge 2"],
+      "team_size": "5"
+    }
+  ],
+  "education": [
+    {
+      "type": "Degree",
+      "degree_name": "Bachelor of Science",
+      "institution": "University Name",
+      "field": "Computer Science",
+      "graduation_year": "2020",
+      "achievements": ["Achievement 1", "Achievement 2"]
+    }
+  ]
+}

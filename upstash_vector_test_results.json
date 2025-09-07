@@ -1,0 +1,58 @@
+{
+  "total_tests": 8,
+  "passed": 8,
+  "failed": 0,
+  "success_rate": 1.0,
+  "duration": 9.576314210891724,
+  "all_passed": true,
+  "results": [
+    {
+      "test": "Connection & Configuration",
+      "success": true,
+      "duration": 1.0691099166870117,
+      "error": null
+    },
+    {
+      "test": "Database Configuration",
+      "success": true,
+      "duration": 0.250607967376709,
+      "error": null
+    },
+    {
+      "test": "Embedding Generation",
+      "success": true,
+      "duration": 0.7656600475311279,
+      "error": null
+    },
+    {
+      "test": "Vector Storage & Retrieval",
+      "success": true,
+      "duration": 0.5174813270568848,
+      "error": null
+    },
+    {
+      "test": "Similarity Search",
+      "success": true,
+      "duration": 0.2489767074584961,
+      "error": null
+    },
+    {
+      "test": "Metadata Filtering",
+      "success": true,
+      "duration": 1.5357210636138916,
+      "error": null
+    },
+    {
+      "test": "Batch Operations Performance",
+      "success": true,
+      "duration": 0.5340077877044678,
+      "error": null
+    },
+    {
+      "test": "Cleanup Test Data",
+      "success": true,
+      "duration": 4.654749393463135,
+      "error": null
+    }
+  ]
+}

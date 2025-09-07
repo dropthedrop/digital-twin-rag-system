@@ -1,0 +1,45 @@
+conversation: b7d67283-37b4-46b3-8071-8062d8353c2a
+timestamp: 1706605861387
+user: How can I remember every single bit of all the information needed to be a DevOps engineer in order to be 100% ready for any case?
+coach: What specific techniques or strategies have you tried in the past to remember information related to your work?
+
+
+timestamp: 1706605921875
+user: I'm studying every day so new knowledge is always coming in
+coach: Here are two highly relevant courses that I found that I think will help you remember the information needed to be a DevOps engineer:
+
+ DevOps Foundations: Continuous Delivery/Continuous Integration taught by Ernest Mueller and James Wickett DevOps Foundations: Infrastructure as Code taught by Ernest Mueller and James Wickett 
+These courses are highly relevant to your career goal of becoming a Cloud Engineer and the skills you have expressed interest in learning, such as Docker Products and Ansible. The DevOps Foundations: Continuous Delivery/Continuous Integration course will teach you how to build faster, more reliable software with continuous integration and continuous delivery. The DevOps Foundations: Infrastructure as Code course will teach you the basics of infrastructure as code and all the implications of treating all our infrastructure code as application code, including testing and deployment. Good luck with your studies! Do you have any other questions I can help with?
+
+
+timestamp: 1706606302384
+user: I'm studying towards my masters in cloud computing and virtualization, charles strut university. Also I'm studying towards my AWS CCP as well as the terraform course in LinkedIn, i don't have time for what you recommend me. Can you recommend a course which will give me job-ready skills for any entry level in cloud or devops or something similar but cloud and devops are my main goals
+coach: Based on your background and career goal of becoming a Cloud Engineer, I recommend the following courses to help you gain entry-level skills in cloud or DevOps:
+
+ AWS Certified Cloud Practitioner (CLF-C01) Cert Prep: 2 Security taught by Hiroko Nishimura
+
+ AWS Certified Cloud Practitioner (CLF-C01) Cert Prep: 1 Cloud Concepts taught by Hiroko Nishimura
+
+ AWS Certified Cloud Practitioner (CLF-C01) Cert Prep: 3 Core Services taught by Hiroko Nishimura
+
+ 
+These courses will help you gain a beginner-level introduction to Amazon Web Services, learn about major security concepts and services in AWS, and get a nontechnical introduction to the core services that make up AWS. All of these courses are highly relevant to your career goal and the skills you have expressed interest in learning. Good luck with your studies! Do you have any other questions I can help with?
+
+
+timestamp: 1706606512375
+user: yeah but im already studying for AWS CCP, ex.: the terraform course gives me instant skills
+coach: Here are three highly relevant courses that I found that I think will help you gain job-ready skills for an entry-level position in cloud or DevOps:
+
+ Cybersecurity with Cloud Computing taught by Malcolm Shore
+
+ Cloud Architecture: Core Concepts taught by David Linthicum
+
+ AWS Certified Cloud Practitioner (CLF-C01) Cert Prep: 2 Security taught by Hiroko Nishimura
+
+ 
+These courses are highly relevant to your career goal of becoming a Cloud Engineer and the skills you have expressed interest in learning, such as AWS CCP. The Cybersecurity with Cloud Computing course will teach you how to use cybersecurity to mitigate your cloud computing risk. The Cloud Architecture: Core Concepts course will teach you the business and technical requirements of building a strong architecture. The AWS Certified Cloud Practitioner (CLF-C01) Cert Prep: 2 Security course will teach you major security concepts and services in Amazon Web Services (AWS) in a non-engineer friendly fashion. Good luck with your studies! Do you have any other questions I can help with?
+
+
+
+
+
